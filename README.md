@@ -1,0 +1,1 @@
+This is practice deconstruction and reconstruction of a webpage, guided by The Odin Project's [curriculum](http://www.theodinproject.com/course/web-development-101/lessons/html-css)
